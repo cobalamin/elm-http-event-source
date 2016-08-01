@@ -1,7 +1,1 @@
-To try, run example:
-
-```
-cd ./example
-npm start
-open http://localhost:8080
-```
+# DO NOT USE THIS. IT'S IN DEVELOPMENT AND DOESN'T WORK PROPERLY YET.
